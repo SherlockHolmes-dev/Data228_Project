@@ -12,7 +12,7 @@ Each array is flattened and saved as a separate Excel file for easier analysis.
 
 ---
 
-## 🛠 How It Works
+##  How It Works
 - Open and read the `data.json` line-by-line.
 - Extract `login` and `id` for each user.
 - Expand each array (`repo_list`, `commit_list`, etc.) into flat tables.
