@@ -42,3 +42,8 @@ The Python script handles errors safely and ensures clean data extraction.
 2. Install necessary libraries:
    ```bash
    pip install pandas openpyxl
+
+## Create Table Queries
+
+BIGDATA_GITHUB.RAW.FOLLOWERS 
+
