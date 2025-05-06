@@ -47,6 +47,9 @@ The Python script handles errors safely and ensures clean data extraction.
 
 BIGDATA_GITHUB.RAW.FOLLOWERS 
 
+## Analysis uisng Spark
+Top_20_activities_by_companies : With this analysis we are listing Top 20 companies with most activities on GIT.
+
 ##  Workflow 
 
 ![BigData_Workflow](https://github.com/user-attachments/assets/3ca3c2ad-841a-4d65-a2e8-c7147eb7aefd)
