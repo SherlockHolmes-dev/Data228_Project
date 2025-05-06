@@ -50,6 +50,7 @@ BIGDATA_GITHUB.RAW.FOLLOWERS
 
 ## Analysis uisng Spark
 Top_20_activities_by_companies : With this analysis we are listing Top 20 companies with most activities on GIT.
+Language_Analysis : Separates repo language for popularity trend analysis grouped by year and month.
 
 ## Snowflake Analytics Table
 
