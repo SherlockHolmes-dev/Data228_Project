@@ -1,5 +1,6 @@
 # BigData JSON Processing and Excel Export
 
+## Sample Data
 ##  Overview
 This project reads a large `data.json` file containing user data, and splits important array fields into separate Excel files.  
 It extracts information from:
@@ -45,10 +46,14 @@ The Python script handles errors safely and ensures clean data extraction.
 
 ## Create Table Queries
 
-BIGDATA_GITHUB.RAW.FOLLOWERS 
+BIGDATA_GITHUB.RAW.FOLLOWERS
 
 ## Analysis uisng Spark
 Top_20_activities_by_companies : With this analysis we are listing Top 20 companies with most activities on GIT.
+
+## Snowflake Analytics Table
+
+BIGDATA_GITHUB.ANALYTICS.TOP_COMPANY_ACTIVITY_SUMMARY
 
 ##  Workflow 
 
