@@ -48,8 +48,12 @@ The Python script handles errors safely and ensures clean data extraction.
 
 BIGDATA_GITHUB.RAW.FOLLOWERS
 
-## Analysis uisng Spark
+## Analysis using Spark
 Top_20_activities_by_companies : With this analysis we are listing Top 20 companies with most activities on GIT.
+Top_Licences_By_RepoAccounts : Analysis of High-Impact Licenses with high total_stars (e.g., MIT) indicates the repositories with high user engagement.
+
+Language_Analysis : Separates repo language for popularity trend analysis grouped by year and month.
+
 Top_Licences_By_RepoAccounts : Analysis of High-Impact Licenses with high total_stars (e.g., MIT) indicates the repositories with high user engagement.
 
 ## Snowflake Analytics Table
