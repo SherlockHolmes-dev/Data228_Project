@@ -103,6 +103,8 @@ BIGDATA_GITHUB.ANALYTICS.TOP_LICENSE
 
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/c462a5d4-04cd-4b4d-a8c2-162c3d70372f" />
 
+![440216138-3ca3c2ad-841a-4d65-a2e8-c7147eb7aefd](https://github.com/user-attachments/assets/f3b6d45c-e636-4142-8996-00ba8f095621)
+
 
 ##  Data Flow Explained in Easy Language
 
