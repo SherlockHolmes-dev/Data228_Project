@@ -61,26 +61,40 @@ The Python script handles errors safely and ensures clean data extraction.
 ## Create Raw Table Queries
 
 BIGDATA_GITHUB.RAW.FOLLOWERS
+
 BIGDATA_GITHUB.RAW.COMMIT_LIST_TABLE
+
 BIGDATA_GITHUB.RAW.FOLLOWER_LIST_TABLE
+
 BIGDATA_GITHUB.RAW.FOLLOWING_LIST_TABLE
+
 BIGDATA_GITHUB.RAW.NON_LIST_TABLE
+
 BIGDATA_GITHUB.RAW.REPO_LIST_TABLE
 
 ## Analysis using Spark
 Top_20_activities_by_companies : With this analysis we are listing Top 20 companies with most activities on GIT.
+
 Key Insights from GitHub Commit Activity (2008–2018) :- Analyze the volumn of commit activities 
+
 Top_Licences_By_RepoAccounts : Analysis of High-Impact Licenses with high total_stars (e.g., MIT) indicates the repositories with high user engagement.
+
 Language_Analysis : Separates repo language for popularity trend analysis grouped by year and month.
+
 Top_Licences_By_RepoAccounts : Analysis of High-Impact Licenses with high total_stars (e.g., MIT) indicates the repositories with high user engagement.
 
 ## Snowflake Analytics Table
 
 BIGDATA_GITHUB.ANALYTICS.TOP_COMPANY_ACTIVITY_SUMMARY
+
 BIGDATA_GITHUB.ANALYTICS.MONTHLY_COMMIT_SUMMARY
+
 BIGDATA_GITHUB.ANALYTICS.YEARLY_COMMIT_SUMMARY
+
 BIGDATA_GITHUB.ANALYTICS.
+
 BIGDATA_GITHUB.ANALYTICS.
+
 BIGDATA_GITHUB.ANALYTICS.
 
 ##  Workflow 
