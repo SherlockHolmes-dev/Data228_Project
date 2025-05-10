@@ -99,10 +99,7 @@ BIGDATA_GITHUB.ANALYTICS.TOP_LICENSE
 
 ##  Workflow 
 
-![BigData_Workflow](https://github.com/user-attachments/assets/3ca3c2ad-841a-4d65-a2e8-c7147eb7aefd)
-
-![440216138-3ca3c2ad-841a-4d65-a2e8-c7147eb7aefd](https://github.com/user-attachments/assets/bea16fa7-751c-4fab-bf19-0476b10ba32b)
-
+![440216138-3ca3c2ad-841a-4d65-a2e8-c7147eb7aefd](https://github.com/user-attachments/assets/f381a34f-d740-40c4-aa63-3d1f264887ef)
 
 
 ##  Data Flow Explained in Easy Language
