@@ -168,10 +168,12 @@ This data pipeline shows how raw GitHub data moves through different stages to g
 ### Product Teams
 - Gain insights into developer needs and usage trends.
 - Prioritize features based on real-world coding behavior.
-
+  
 ---
 
-## Conclusion & Key Learnings
+## Conclusion
+
+##  Conclusion & Key Learnings
 
 Analyzing GitHub data from **2008–2018** helped us uncover meaningful insights about developer activity, technology trends, and community dynamics.
 
@@ -196,6 +198,10 @@ We used Spark for:
 -  Calculating influence scores and developer rankings  
 
 Spark integrated smoothly into our workflow and enabled a seamless transformation from raw data to actionable insights.
+
+---
+
+# Thank You !!
 
 
 
