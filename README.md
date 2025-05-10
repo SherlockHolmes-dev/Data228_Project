@@ -168,8 +168,41 @@ This data pipeline shows how raw GitHub data moves through different stages to g
 ### Product Teams
 - Gain insights into developer needs and usage trends.
 - Prioritize features based on real-world coding behavior.
+  
+---
 
-### Conclusion
+## Conclusion
+
+##  Conclusion & Key Learnings
+
+Analyzing GitHub data from **2008–2018** helped us uncover meaningful insights about developer activity, technology trends, and community dynamics.
+
+- **Microsoft**, **Google**, and **freelancers** lead in contributions.
+- **JavaScript** remained the most popular language throughout the decade.
+- **Seasonal and yearly commit patterns** reflect real-world behavior and developer engagement trends.
+
+We used a **modern big data pipeline** — from **Azure Blob Storage** to **Power BI** — to process and visualize this information effectively.
+
+---
+
+##  What We Learned About Apache Spark
+
+- **Spark** is ideal for processing large-scale, nested datasets like GitHub JSON.
+- It's **fast and scalable**, thanks to in-memory computing and parallel execution.
+- **PySpark** allowed us to use Python alongside Spark's distributed data processing.
+
+We used Spark for:
+
+-  Flattening nested JSON arrays  
+-  Grouping and aggregating data (e.g., commits, stars, forks)  
+-  Calculating influence scores and developer rankings  
+
+Spark integrated smoothly into our workflow and enabled a seamless transformation from raw data to actionable insights.
+
+---
+
+# Thank You !!
+
 
 
 
