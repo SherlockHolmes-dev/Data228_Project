@@ -6,7 +6,7 @@ create or replace TABLE BIGDATA_GITHUB.ANALYTICS.TOP_COMPANY_ACTIVITY_SUMMARY (
 
 -- SQL Equivalent
 
-## SQL query for above steps
+
 -- 1. Count commits per user
 WITH commit_counts AS (
   SELECT
