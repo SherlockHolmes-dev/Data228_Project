@@ -144,6 +144,7 @@ This data pipeline shows how raw GitHub data moves through different stages to g
   - Highlight technology adoption trends
 - These visuals are useful for developers, researchers, and decision-makers.
 
+![image](https://github.com/user-attachments/assets/5fc11959-5762-40b3-ac3c-773414a65924)
 
 
  **End Goal**: Turn complex, unstructured GitHub data into clear, actionable insights through a robust, cloud-based analytics pipeline.
